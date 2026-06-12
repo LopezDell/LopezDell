@@ -18,9 +18,7 @@
 ## Technologies
 - Java
 - HTML
-- CSS
-- MySQL
-- Git
+
   
 ## Contact
 📧 m.lopez518301@umindanao.edu.ph
