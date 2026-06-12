@@ -21,5 +21,5 @@
 
   
 ## Contact
-📧 m.lopez518301@umindanao.edu.ph
+📧 lopezmendell09@gmail.com
 🌐 Portfolio: https://mlopez518301.wixsite.com/lopez-portfolio
