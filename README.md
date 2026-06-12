@@ -24,4 +24,4 @@
   
 ## Contact
 📧 m.lopez518301@umindanao.edu.ph
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: https://mlopez518301.wixsite.com/lopez-portfolio
