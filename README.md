@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Mendell 👋
 
-<!--
-**LopezDell/LopezDell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Student at University of Mindanao
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+## Currently Learning
+- Java Programming
+- Information Management
+- Database Design
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build more programming projects
+- Improve problem-solving skills
+- Learn Git and GitHub
+- Create a professional portfolio
+
+## Technologies
+- Java
+- HTML
+- CSS
+- MySQL
+- Git
+  
+## Contact
+📧 m.lopez518301@umindanao.edu.ph
+🌐 Portfolio: https://your-portfolio-link.com
